@@ -10,13 +10,14 @@
 所以目录暂时如下：
 
 ```
-C:.
-│  README.md
-│  _config.yml
-├─2019-10
-├─2019-11
-└─resources
-    └─image
-            python-logo.png
+./Diary
+
+├─resources
+│  └─image
+└─内容分类
+    ├─GIT-GitHub
+    ├─python-GUI
+    ├─python-selenium
+    └─python-基础与练习
 ```
 
