@@ -14,8 +14,24 @@
      所以具体什么原因也不清楚，后续再次操作的时候注意吧。有必得了再整理过来。
 
 
+- 问题描述：
+从GitHub通过ssh克隆到本地仓，但是如果本地修改commit后想要push到GitHub上，在Pycharm上总是提示：
+```
+23:09	Push failed
+		Connection reset by 52.74.223.119 port 22
+		Could not read from remote repository.
+		Please make sure you have the correct access rights
+		and the repository exists.
+```
+百度后找到[解决方法](https://www.cnblogs.com/Diamond-sjh/p/11352156.html "博客园 Diamond蚊子")
+> 在防火墙高级设置中，新建入站规则，允许本地特定端口"22"通过TCP连接，设置完成后再次Push就成功了：
+```
+23:13	Push successful: Pushed 2 commits to origin/master
+```
 
+然而，上面的方法只push成功了一次，要再次push的时候又报上面那个错了。难道ssh克隆的每次push都要重新给GitHub添加sshKey？
 
+我还是用https重新克隆下来吧！~~~
 
 ---
 
