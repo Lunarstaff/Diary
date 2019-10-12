@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55aa2eed-15d1-4573-8809-af6b08bea24b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/getHtmlText.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/GIT-GitHub/GitHub中添加ssh Key.md" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/GIT-GitHub/GitHub中添加ssh Key.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,23 +15,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="168">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/getHtmlText.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/内容分类/GIT-GitHub/GitHub中添加ssh Key.md">
+        <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="335">
-                <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <first_editor relative-caret-position="252">
+                <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -38,6 +36,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
@@ -50,16 +55,8 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/内容分类/GIT-GitHub/GitHub中添加ssh Key.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Diary.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/getHtmlText.py" />
+        <option value="$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md" />
       </list>
     </option>
   </component>
@@ -73,7 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,10 +99,24 @@
               <item name="内容分类" type="462c0819:PsiDirectoryNode" />
               <item name="GIT-GitHub" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
+              <item name="内容分类" type="462c0819:PsiDirectoryNode" />
+              <item name="python-爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
+              <item name="内容分类" type="462c0819:PsiDirectoryNode" />
+              <item name="python-爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="worm_toutiao" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,6 +135,34 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="getHtmlText" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/getHtmlText.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.getHtmlText" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\lywte\AppData\Roaming\Subversion</configuration>
@@ -165,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570631427483</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-- 开始Diary&#10;-- 增加一个记录 pycharm上用Git从Github上克隆项目时的问题-待解决">
+      <created>1570722436553</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570722436553</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -177,14 +222,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49669603" visible="true" weight="0.5106157" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4955947" weight="0.5106157" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50330395" side_tool="true" visible="true" weight="0.5106157" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50440526" side_tool="true" weight="0.5106157" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -252,8 +297,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="21">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -262,8 +307,28 @@
     <entry file="file://$PROJECT_DIR$/内容分类/GIT-GitHub/GitHub中添加ssh Key.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="335">
-            <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <first_editor relative-caret-position="210">
+            <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/今日头条-主页-002.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/getHtmlText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="252">
+            <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
           </first_editor>
           <second_editor />
         </state>
