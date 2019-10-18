@@ -12,5 +12,5 @@ driver_chrome = webdriver.Chrome(chrome_options=option_headless)
 driver_chrome.get(target_url)
 time.sleep(5)
 
-print(driver_chrome.find_element_by_xpath(target_element_01_xpath).text)
+print(driver_chrome.find_element_by_xpath(target_element_01_xpath).get_attribute("href"))
 driver_chrome.close()

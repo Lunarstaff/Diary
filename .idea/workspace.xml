@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55aa2eed-15d1-4573-8809-af6b08bea24b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/beautifulsoup_parse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/chrome_sele.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele_headless.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Lunar12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/unittest/unittest_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_pro_v1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele_headless.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele_headless.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,9 +20,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="152">
-                <caret line="257" lean-forward="true" selection-start-line="257" selection-end-line="257" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="206">
+                <caret line="399" lean-forward="true" selection-start-line="399" selection-end-line="399" />
               </first_editor>
               <second_editor />
             </state>
@@ -30,12 +30,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele_headless.py">
+        <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_pro_v1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="21" lean-forward="true" selection-end-line="16" />
+            <state relative-caret-position="228">
+              <caret line="12" column="22" selection-end-line="95" />
               <folding>
-                <element signature="e#20#50#0" expanded="true" />
+                <element signature="e#37#67#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,22 +77,24 @@
         <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/r.html" />
         <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele.py" />
         <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/chrome_sele.py" />
+        <option value="$PROJECT_DIR$/内容分类/python-selenium/unittest/unittest_001.py" />
         <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele_headless.py" />
+        <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_pro_v1.py" />
         <option value="$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="70" />
-    <option name="y" value="-8" />
-    <option name="width" value="1047" />
-    <option name="height" value="1087" />
+    <option name="x" value="1000" />
+    <option name="width" value="929" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,31 +118,17 @@
               <item name="Diary" type="462c0819:PsiDirectoryNode" />
               <item name="内容分类" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diary" type="462c0819:PsiDirectoryNode" />
-              <item name="内容分类" type="462c0819:PsiDirectoryNode" />
-              <item name="python-爬虫" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Diary" type="462c0819:PsiDirectoryNode" />
-              <item name="内容分类" type="462c0819:PsiDirectoryNode" />
-              <item name="python-爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="worm_toutiao" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python入门/PYcharmProject" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,28 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.phantomjs_sele_headless">
-    <configuration name="beautifulsoup_parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Diary" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/beautifulsoup_parse.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.toutiao_pro_v1">
     <configuration name="chrome_sele" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diary" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,27 +156,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/chrome_sele.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="getHtmlText" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Diary" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/getHtmlText.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,16 +206,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="toutiao_pro_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_pro_v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unittest_001.T1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-selenium/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unittest_001.T1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.toutiao_pro_v1" />
         <item itemvalue="Python.phantomjs_sele_headless" />
         <item itemvalue="Python.chrome_sele" />
         <item itemvalue="Python.phantomjs_sele" />
-        <item itemvalue="Python.beautifulsoup_parse" />
-        <item itemvalue="Python.getHtmlText" />
+        <item itemvalue="Python tests.Unittests for unittest_001.T1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="5" BundledDictionary0="django.dic" BundledDictionary1="python.dic" BundledDictionary2="pythonExtras.dic" BundledDictionary3="jetbrains.dic" BundledDictionary4="english.dic" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\lywte\AppData\Roaming\Subversion</configuration>
   </component>
@@ -323,27 +305,57 @@
       <option name="project" value="LOCAL" />
       <updated>1570901794479</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="-- 20191013尝试爬虫-使用selenium + chromedriver&#10;获取动态网页数据，并配置浏览器静默执行">
+      <created>1570973366979</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570973366979</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_unittest_001_py - 2019.10.17 at 21h 51m 53s.xml">
+      <configuration name="Unittests in unittest_001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unittest_001_py - 2019.10.17 at 21h 53m 08s.xml">
+      <configuration name="Unittests in unittest_001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unittest_001_T1 - 2019.10.17 at 21h 53m 47s.xml">
+      <configuration name="Unittests for unittest_001.T1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unittest_001_T1 - 2019.10.17 at 21h 54m 21s.xml">
+      <configuration name="Unittests for unittest_001.T1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unittest_001_T1 - 2019.10.17 at 21h 55m 50s.xml">
+      <configuration name="Unittests for unittest_001.T1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unittest_001_T1 - 2019.10.17 at 21h 56m 13s.xml">
+      <configuration name="Unittests for unittest_001.T1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_unittest_001_T1 - 2019.10.17 at 23h 17m 40s.xml">
+      <configuration name="Unittests for unittest_001.T1" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="-8" width="1858" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1376652" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18777533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49944934" visible="true" weight="0.32590234" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8756983" visible="true" weight="0.17091295" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49930167" weight="0.4972452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4955947" weight="0.5106157" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005507" side_tool="true" weight="0.32908705" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006983" side_tool="true" weight="0.61157024" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49930167" weight="0.27961433" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -402,7 +414,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-- 开始Diary&#10;-- 增加一个记录 pycharm上用Git从Github上克隆项目时的问题-待解决" />
     <MESSAGE value="-- 20191013尝试爬虫-完成基本网页请求" />
-    <option name="LAST_COMMIT_MESSAGE" value="-- 20191013尝试爬虫-完成基本网页请求" />
+    <MESSAGE value="-- 20191013尝试爬虫-使用selenium + chromedriver&#10;获取动态网页数据，并配置浏览器静默执行" />
+    <option name="LAST_COMMIT_MESSAGE" value="-- 20191013尝试爬虫-使用selenium + chromedriver&#10;获取动态网页数据，并配置浏览器静默执行" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_config.yml">
@@ -448,16 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="e#20#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/beautifulsoup_parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -475,28 +478,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/chrome_sele.py">
+    <entry file="file://$PROJECT_DIR$/内容分类/python-selenium/unittest/unittest_001.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele_headless.py">
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="21" lean-forward="true" selection-end-line="16" />
+        <state relative-caret-position="342">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#20#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/chrome_sele.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#20#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele_headless.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#20#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2911018103726">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_图片2911018103624">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2911018103655">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2911018103756">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2911018103711">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2911018103610">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经2911018103741">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2911018105551.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐291101811130.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点291101811039.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技291101811113.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2911018111549.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2911018111456.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经2911018111531.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2911018111439.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2911018111514.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技2911018111421.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_pro_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="22" selection-end-line="95" />
+          <folding>
+            <element signature="e#37#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="257" lean-forward="true" selection-start-line="257" selection-end-line="257" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="206">
+            <caret line="399" lean-forward="true" selection-start-line="399" selection-end-line="399" />
           </first_editor>
           <second_editor />
         </state>
