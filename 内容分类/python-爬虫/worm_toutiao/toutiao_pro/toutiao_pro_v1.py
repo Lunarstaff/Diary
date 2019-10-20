@@ -9,7 +9,7 @@ import wordcloud
 # 获取当前系统时间yyyymmddhhmmss_str
 def get_now_time():
     lm = time.localtime()
-    time_str = str(lm.tm_yday) + str(lm.tm_mon) + str(lm.tm_mday) \
+    time_str = str(lm.tm_year) + str(lm.tm_mon) + str(lm.tm_mday) \
                + str(lm.tm_hour) + str(lm.tm_min) + str(lm.tm_sec)
     return time_str
 
