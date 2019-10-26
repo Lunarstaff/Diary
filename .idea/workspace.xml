@@ -1,16 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/image_pro_v1.py" line="40" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="55aa2eed-15d1-4573-8809-af6b08bea24b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/image_pro_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/爬取图片.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/html解析-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/xml解析-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/xml解析-002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/xml解析-003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/XML解析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/html_par.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/Mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/attach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/bookmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/broken-line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/button_cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/button_ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/clanbomber.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/closed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/desktop_new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/family.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/fema.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/female1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/female2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/flag-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/flag-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/flag-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/flag-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/flag-pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/flag-yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/freemind_butterfly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/full-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/full-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/full-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/full-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/full-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/full-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/full-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/full-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/full-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/full-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/gohome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/hourglass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/idea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/kaddressbook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/kmail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/knotify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/korn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/ksmiletris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/launch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/licq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/male1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/male2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/messagebox_warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/penguin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/prepare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/smiley-angry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/smiley-neutral.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/smiley-oh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/smily_bad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/stop-sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/wizard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/xmag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/icons/yes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/ilink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/map_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/marktree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.html_files/treestyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.mm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/root.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/HTML XML解析/xml_par.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_pro_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_pro_v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/尝试爬取今日头条.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_download.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/image_pro_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/image_pro_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/爬取图片.md" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/爬取图片.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,12 +102,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/内容分类/HTML XML解析/XML解析.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="214">
+                <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/image_pro_v1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="56" column="24" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+            <state relative-caret-position="-836">
+              <caret line="90" column="7" selection-start-line="90" selection-start-column="7" selection-end-line="90" selection-end-column="7" />
               <folding>
                 <element signature="e#18#48#0" expanded="true" />
               </folding>
@@ -33,28 +128,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_download.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-              <folding>
-                <element signature="e#30#43#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/爬取图片.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="462">
+                <caret line="182" column="38" selection-start-line="182" selection-start-column="38" selection-end-line="182" selection-end-column="38" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/2019102022425.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/爬取图片.md">
+        <entry file="file://$PROJECT_DIR$/内容分类/GIT-GitHub/GitHub中添加ssh Key.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="349">
-                <caret line="87" column="8" lean-forward="true" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="291">
+                <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -78,6 +168,8 @@
       <find>http</find>
       <find>body</find>
       <find>abs_xpath_list</find>
+      <find>p</find>
+      <find>xth2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,9 +194,14 @@
         <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/phantomjs_sele_headless.py" />
         <option value="$PROJECT_DIR$/内容分类/python-爬虫/尝试爬取今日头条.md" />
         <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_pro_v1.py" />
+        <option value="$PROJECT_DIR$/内容分类/HTML XML解析/root.xml" />
+        <option value="$PROJECT_DIR$/内容分类/HTML XML解析/xml_par.py" />
+        <option value="$PROJECT_DIR$/内容分类/HTML XML解析/root.mm.html" />
+        <option value="$PROJECT_DIR$/内容分类/HTML XML解析/html_par.py" />
+        <option value="$PROJECT_DIR$/内容分类/HTML XML解析/XML解析.md" />
         <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_download.py" />
-        <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/爬取图片.md" />
         <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/image_pro_v1.py" />
+        <option value="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/爬取图片.md" />
       </list>
     </option>
   </component>
@@ -129,7 +226,37 @@
             <path>
               <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
               <item name="Diary" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
               <item name="内容分类" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
+              <item name="内容分类" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML XML解析" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
+              <item name="内容分类" type="462c0819:PsiDirectoryNode" />
+              <item name="python-selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Diary" type="462c0819:PsiDirectoryNode" />
+              <item name="内容分类" type="462c0819:PsiDirectoryNode" />
+              <item name="python-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="unittest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Diary" type="b2602c69:ProjectViewProjectNode" />
@@ -154,6 +281,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python入门/PYcharmProject" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -174,28 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.image_download">
-    <configuration name="chrome_sele" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Diary" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/chrome_sele.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.image_pro_v1">
     <configuration name="image_download" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diary" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,13 +387,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="xml_par" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/HTML XML解析" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/HTML XML解析/xml_par.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.image_download" />
-        <item itemvalue="Python.toutiao_pro_v1" />
         <item itemvalue="Python.image_pro_v1" />
+        <item itemvalue="Python.image_download" />
+        <item itemvalue="Python.xml_par" />
+        <item itemvalue="Python.toutiao_pro_v1" />
         <item itemvalue="Python.phantomjs_sele_headless" />
-        <item itemvalue="Python.chrome_sele" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571369585994</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="-- 20191020&#10;- 图片下载方案待确定">
+      <created>1571582787622</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571582787622</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -386,22 +521,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="-7" width="1472" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23743017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8756983" visible="true" weight="0.1983471" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.63477653" visible="true" weight="0.19972453" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49930167" weight="0.4972452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4955947" weight="0.5106157" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4944134" weight="0.36501378" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006983" side_tool="true" weight="0.611465" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49930167" weight="0.2768595" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50139666" side_tool="true" weight="0.59504133" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49860334" weight="0.46556473" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -481,132 +615,10 @@
     <MESSAGE value="-- 20191013尝试爬虫-完成基本网页请求" />
     <MESSAGE value="-- 20191013尝试爬虫-使用selenium + chromedriver&#10;获取动态网页数据，并配置浏览器静默执行" />
     <MESSAGE value="-- 20191018&#10;- 小爬虫算是成功了。" />
-    <option name="LAST_COMMIT_MESSAGE" value="-- 20191018&#10;- 小爬虫算是成功了。" />
+    <MESSAGE value="-- 20191020&#10;- 图片下载方案待确定" />
+    <option name="LAST_COMMIT_MESSAGE" value="-- 20191020&#10;- 图片下载方案待确定" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="21">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/GIT-GitHub/GitHub中添加ssh Key.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="210">
-            <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/image/今日头条-主页-002.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/34534.html" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/r.txt" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/67544765.html" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/r.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python36/Lib/site-packages/selenium/webdriver/common/service.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/beautifulsoup_parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-          <folding>
-            <element signature="e#25#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/getHtmlText.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-selenium/unittest/unittest_001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/chrome_sele.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#20#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2911018103726" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_图片2911018103624" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2911018103655" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2911018103756" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2911018103711" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2911018103610" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经2911018103741" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2911018105551.png" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐291101811130.png" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点291101811039.png" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技291101811113.png" />
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/尝试爬取今日头条.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="570">
-            <caret line="216" column="7" selection-start-line="216" selection-start-column="7" selection-end-line="216" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/ghostdriver.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_pro_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-991">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#37#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2911018111514.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2019101818351.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2019101818316.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2911018111439.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2911018111549.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -657,24 +669,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191020221514.jpg">
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191020221514.jpg" />
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191020222359.jpg" />
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191020223648.jpg" />
+    <entry file="file://$PROJECT_DIR$/内容分类/HTML XML解析/root.mm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="84" lean-forward="true" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/HTML XML解析/root.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/HTML XML解析/root.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/HTML XML解析/xml_par.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/HTML XML解析/root.mm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026103231.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191020222359.jpg">
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026102243.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191020223648.jpg">
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026101147.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026103256.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026103619.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026103830.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026104029.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/HTML XML解析/html_par.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="18" selection-start-line="2" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#15#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026104235.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026104259.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026104314.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026104537.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026104528.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026104458.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/20191026104854.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+          <folding>
+            <element signature="e#21#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/QingDouKe青豆客 2017.09.30 林紫涵/2019102612424.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/QingDouKe青豆客 2017.09.30 林紫涵/20191026132821.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/QingDouKe青豆客 2017.09.30 林紫涵/20191026132822.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/QingDouKe青豆客 2017.09.30 林紫涵/20191026132823.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/QingDouKe青豆客 2017.09.30 林紫涵/20191026132824.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/2019102022425.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_download.py">
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/2019102611158.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/xml解析-001.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/html解析-001.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/xml解析-003.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/image/浏览器-header-001.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/image_pro_v1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="-836">
+          <caret line="90" column="7" selection-start-line="90" selection-start-column="7" selection-end-line="90" selection-end-column="7" />
           <folding>
-            <element signature="e#30#43#0" expanded="true" />
+            <element signature="e#18#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -682,20 +818,30 @@
     <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/爬取图片.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="349">
-            <caret line="87" column="8" lean-forward="true" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
+          <first_editor relative-caret-position="462">
+            <caret line="182" column="38" selection-start-line="182" selection-start-column="38" selection-end-line="182" selection-end-column="38" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/内容分类/python-爬虫/worm_image/image_pro/image_pro_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="56" column="24" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
-          <folding>
-            <element signature="e#18#48#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/内容分类/GIT-GitHub/GitHub中添加ssh Key.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="291">
+            <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/内容分类/HTML XML解析/XML解析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="214">
+            <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
