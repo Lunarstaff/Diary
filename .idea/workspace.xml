@@ -1,27 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="55aa2eed-15d1-4573-8809-af6b08bea24b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/selenium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/unittest/language_survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/unittest/name_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/unittest/names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/unittest/survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/unittest/test_name_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/unittest/test_survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/unittest/unittest.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/AirTest/Airtest.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/AirTest/untitled.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/Python 环境/第三方库安装.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/Windows-Linux shell/WindowsShell-端口被占用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/Windows-Linux shell/xshell使用backspace异常.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-excel/openpyxl_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/chrome_emulate_mobile_device.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/remote_firefox_emulate_mobile_device.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/remote_selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/selenium-node-winie10.cfg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/微信预约开户数据模板.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/mathrandoam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/string_parse/wx_countries_parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/header_parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/mp3-download/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/mp3-download/ting89-mp3-download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/字符与编码/文件编码与解码.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-selenium/unittest/unittest_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/unittest/unittest_001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/爬取图片.md" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-爬虫/worm_image/爬取图片.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-selenium/selenium.md" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-selenium/selenium.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2019101818351.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2019101818351.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2911018111514.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2911018111514.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2019101818316.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2019101818316.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2911018111439.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2911018111439.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2019101818426.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2019101818426.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2911018111549.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2911018111549.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2019101818334.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2019101818334.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2911018111456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2911018111456.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2019101818226.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2019101818226.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2911018111348.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2911018111348.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技2019101818259.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技2019101818259.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技2911018111421.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技2911018111421.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经201910181849.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经201910181849.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经2911018111531.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经2911018111531.txt" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Diary" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,17 +89,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>推荐</find>
-      <find>channel-fixed</find>
-      <find>http</find>
-      <find>body</find>
-      <find>abs_xpath_list</find>
-      <find>p</find>
-      <find>xth2</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -49,33 +96,30 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TmsoP1WHRHNtHlHbaucHZe7dHX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\E-Data-File\腾讯课堂\Diary\内容分类\python-selenium" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\E-Data-File\腾讯课堂\Diary\内容分类\python-基础与练习\unittest" />
       <recent name="C:\E-Data-File\腾讯课堂\Diary\内容分类\python-爬虫\worm_toutiao" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_survey.py">
-    <configuration name="language_survey" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.python-tkinter">
+    <configuration name="header_parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-基础与练习/unittest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-爬虫" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-基础与练习/unittest/language_survey.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-爬虫/header_parse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,73 +140,104 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_survey.TestAnonymousSurvey.test_store_single_response" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="math_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-基础与练习/unittest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/mathcac" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_survey.TestAnonymousSurvey.test_store_single_response&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/mathcac/math_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_survey.TestAnonymousSurvey.test_store_three_responses" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="python-tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-基础与练习/unittest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_survey.TestAnonymousSurvey.test_store_three_responses&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/tkinter/python-tkinter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_name_function.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="ting89-mp3-download" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-基础与练习/unittest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-爬虫/mp3-download" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/内容分类/python-基础与练习/unittest/test_name_function.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-爬虫/mp3-download/ting89-mp3-download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_survey.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="untitled" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Diary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-基础与练习/unittest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/AirTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/内容分类/python-基础与练习/unittest/test_survey.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/AirTest/untitled.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test_survey.py" />
-        <item itemvalue="Python tests.Unittests for test_survey.TestAnonymousSurvey.test_store_single_response" />
-        <item itemvalue="Python tests.Unittests for test_survey.TestAnonymousSurvey.test_store_three_responses" />
-        <item itemvalue="Python.language_survey" />
-        <item itemvalue="Python tests.Unittests in test_name_function.py" />
+        <item itemvalue="Python.python-tkinter" />
+        <item itemvalue="Python.math_v2" />
+        <item itemvalue="Python.untitled" />
+        <item itemvalue="Python.header_parse" />
+        <item itemvalue="Python.ting89-mp3-download" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="5" BundledDictionary0="django.dic" BundledDictionary1="python.dic" BundledDictionary2="pythonExtras.dic" BundledDictionary3="jetbrains.dic" BundledDictionary4="english.dic" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\lywte\AppData\Roaming\Subversion</configuration>
   </component>
@@ -244,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572072372009</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="-- 20191119&#10;-- unittest 做单元测试的先放一放&#10;-- 先转去selenium">
+      <created>1574172575909</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574172575909</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -263,7 +345,17 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="COLUMN_ORDER" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -283,6 +375,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-- 开始Diary&#10;-- 增加一个记录 pycharm上用Git从Github上克隆项目时的问题-待解决" />
@@ -291,6 +384,21 @@
     <MESSAGE value="-- 20191018&#10;- 小爬虫算是成功了。" />
     <MESSAGE value="-- 20191020&#10;- 图片下载方案待确定" />
     <MESSAGE value="-- 20191026&#10;-- 图片爬取成功" />
-    <option name="LAST_COMMIT_MESSAGE" value="-- 20191026&#10;-- 图片爬取成功" />
+    <MESSAGE value="-- 20191119&#10;-- unittest 做单元测试的先放一放&#10;-- 先转去selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="-- 20191119&#10;-- unittest 做单元测试的先放一放&#10;-- 先转去selenium" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="226" width="684" height="507" key="#Notifications" timestamp="1588421590984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="318" y="226" width="684" height="507" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1588421590984" />
+    <state x="219" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588415972634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="219" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588415972634" />
+    <state x="381" y="78" key="SettingsEditor" timestamp="1587309151036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="381" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587309151036" />
   </component>
 </project>
