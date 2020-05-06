@@ -26,55 +26,31 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55aa2eed-15d1-4573-8809-af6b08bea24b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/AirTest/Airtest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/AirTest/untitled.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/Python 环境/第三方库安装.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/Windows-Linux shell/WindowsShell-端口被占用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/Windows-Linux shell/xshell使用backspace异常.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-excel/openpyxl_001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/chrome_emulate_mobile_device.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/remote_firefox_emulate_mobile_device.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/remote_selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/selenium-node-winie10.cfg.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-selenium/微信预约开户数据模板.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/mathrandoam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-基础与练习/string_parse/wx_countries_parse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/header_parse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/mp3-download/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/python-爬虫/mp3-download/ting89-mp3-download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/内容分类/字符与编码/文件编码与解码.md" afterDir="false" />
+    <list default="true" id="55aa2eed-15d1-4573-8809-af6b08bea24b" name="Default Changelist" comment="-- 20200502&#10;-- 每长时间没提交了。因为很多内容只写了一部分。">
+      <change afterPath="$PROJECT_DIR$/内容分类/pygame/learn/pygame_learn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/pygame/learn/resources/EggBlue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/pygame/learn/resources/SoccerBall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章/lesson_1-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章/lesson_1-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章/lesson_1-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章/lesson_1-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-selenium/selenium.md" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/python-selenium/selenium.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2019101818351.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2019101818351.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2911018111514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_体育2911018111514.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2019101818316.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2019101818316.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2911018111439.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_娱乐2911018111439.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2019101818426.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2019101818426.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2911018111549.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_搞笑2911018111549.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2019101818334.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2019101818334.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2911018111456.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_游戏2911018111456.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2019101818226.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2019101818226.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2911018111348.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_热点2911018111348.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技2019101818259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技2019101818259.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技2911018111421.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_科技2911018111421.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经201910181849.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经201910181849.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经2911018111531.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/内容分类/python-爬虫/worm_toutiao/toutiao_pro/toutiao_财经2911018111531.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/PyGame资料.md" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/PyGame资料.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/alien.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/alien.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/bullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/bullet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/button.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/game_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/game_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/game_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/game_stats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/plane-001.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/plane-001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/pygame_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/pygame_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/resources/alien_001.png" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/resources/alien_001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/resources/bullet_001.png" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/resources/bullet_001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/resources/plane_001.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/resources/plane_001.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/resources/plane_001.png" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/resources/plane_001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/内容分类/pygame/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/内容分类/pygame/alien_vs_ships/ship.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,20 +82,30 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/内容分类/pygame/learn/resources" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Diary" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Diary" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\E-Data-File\腾讯课堂\Diary\内容分类\python-selenium" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\E-Data-File\腾讯课堂\Diary\内容分类\pygame\alien_vs_ships" />
       <recent name="C:\E-Data-File\腾讯课堂\Diary\内容分类\python-基础与练习\unittest" />
       <recent name="C:\E-Data-File\腾讯课堂\Diary\内容分类\python-爬虫\worm_toutiao" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\E-Data-File\腾讯课堂\Diary\内容分类\pygame\learn\resources" />
+      <recent name="C:\E-Data-File\腾讯课堂\Diary\内容分类\python-selenium" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.python-tkinter">
-    <configuration name="header_parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.lesson_1-4">
+    <configuration name="lesson_1-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Diary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-爬虫" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-爬虫/header_parse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章/lesson_1-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="math_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lesson_1-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Diary" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +134,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/mathcac" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/mathcac/math_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章/lesson_1-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_1-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章/lesson_1-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_1-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/pygame/learn/【】第一章/lesson_1-4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,55 +210,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ting89-mp3-download" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Diary" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/python-爬虫/mp3-download" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/python-爬虫/mp3-download/ting89-mp3-download.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="untitled" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Diary" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/内容分类/AirTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/内容分类/AirTest/untitled.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson_1-4" />
+        <item itemvalue="Python.lesson_1-3" />
+        <item itemvalue="Python.lesson_1-2" />
+        <item itemvalue="Python.lesson_1-1" />
         <item itemvalue="Python.python-tkinter" />
-        <item itemvalue="Python.math_v2" />
-        <item itemvalue="Python.untitled" />
-        <item itemvalue="Python.header_parse" />
-        <item itemvalue="Python.ting89-mp3-download" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574172575909</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="-- 20200502&#10;-- 每长时间没提交了。因为很多内容只写了一部分。">
+      <created>1588429757367</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588429757367</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -385,9 +378,18 @@
     <MESSAGE value="-- 20191020&#10;- 图片下载方案待确定" />
     <MESSAGE value="-- 20191026&#10;-- 图片爬取成功" />
     <MESSAGE value="-- 20191119&#10;-- unittest 做单元测试的先放一放&#10;-- 先转去selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="-- 20191119&#10;-- unittest 做单元测试的先放一放&#10;-- 先转去selenium" />
+    <MESSAGE value="-- 20200502&#10;-- 每长时间没提交了。因为很多内容只写了一部分。" />
+    <option name="LAST_COMMIT_MESSAGE" value="-- 20200502&#10;-- 每长时间没提交了。因为很多内容只写了一部分。" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="618" y="292" key="#Custom_Plugin_Repositories" timestamp="1588776025070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="292" key="#Custom_Plugin_Repositories/0.0.1536.824@0.0.1536.824" timestamp="1588776025070" />
+    <state x="504" y="76" key="#HTTP_Proxy" timestamp="1588776033679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="76" key="#HTTP_Proxy/0.0.1536.824@0.0.1536.824" timestamp="1588776033679" />
     <state x="318" y="226" width="684" height="507" key="#Notifications" timestamp="1588421590984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -396,9 +398,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="219" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588415972634" />
-    <state x="381" y="78" key="SettingsEditor" timestamp="1587309151036">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="86" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588509492318">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="86" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588509492318" />
+    <state x="236" y="0" key="CommitChangelistDialog2" timestamp="1588430022988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="236" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1588430022988" />
+    <state x="498" y="111" key="FileChooserDialogImpl" timestamp="1588775143127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588775143127" />
+    <state width="1511" height="127" key="GridCell.Tab.0.bottom" timestamp="1588517920991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="127" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588517920991" />
+    <state width="1511" height="127" key="GridCell.Tab.0.center" timestamp="1588517920991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="127" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588517920991" />
+    <state width="1511" height="127" key="GridCell.Tab.0.left" timestamp="1588517920991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="127" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588517920991" />
+    <state width="1511" height="127" key="GridCell.Tab.0.right" timestamp="1588517920991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1511" height="127" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588517920991" />
+    <state x="202" y="0" width="1139" height="824" key="SettingsEditor" timestamp="1588776067950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="202" y="0" width="1139" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588776067950" />
     <state x="381" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587309151036" />
+    <state x="261" y="80" key="Vcs.Push.Dialog.v2" timestamp="1588430035975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="80" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1588430035975" />
+    <state x="473" y="292" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1588501721394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="292" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1588501721394" />
   </component>
 </project>
