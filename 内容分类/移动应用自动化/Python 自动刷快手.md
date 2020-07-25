@@ -31,7 +31,7 @@ List of devices attached
 **方法一：**使用APK Messenger中的aapt工具：
 
 1. 因为aapt.exe 没有设置环境变更，所以要在aapt.exe目录下启动命令提示符窗口。
-2. 执行命令`aapt dump badging 安装包名称`
+2. 执行命令`aapt dump badging 安装包文件`
 ```shell
 C:\Users\Lunar12\Downloads\arpmesse_bkill.com\APK Messenger4.1>aapt dump badging "C:\Users\Lunar12\Desktop\21479726.apk"
 package: name='xxxx.xx.xxx' versionCode='198' versionName='2.2.0.198'
