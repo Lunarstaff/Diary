@@ -11,13 +11,58 @@
 
 ```
 ./Diary
-
+├─.idea
+│  └─dictionaries
 ├─resources
 │  └─image
 └─内容分类
+    ├─AirTest
+    │  └─log
+    ├─C
+    │  ├─hello world
+    │  └─指针
     ├─GIT-GitHub
+    ├─HTML XML解析
+    │  └─root.html_files
+    │      └─icons
+    ├─mathcac
+    │  ├─resources
+    │  └─__pycache__
+    ├─pygame
+    │  ├─alien_vs_ships
+    │  │  └─resources
+    │  ├─Beginning Game Development with Python and Pygame
+    │  ├─learn
+    │  │  ├─resources
+    │  │  └─【】第一章
+    │  └─__pycache__
+    ├─Python 环境
+    ├─python-excel
     ├─python-GUI
     ├─python-selenium
-    └─python-基础与练习
+    ├─python-基础与练习
+    │  ├─string_parse
+    │  └─unittest
+    │      └─__pycache__
+    ├─python-爬虫
+    │  ├─mp3-download
+    │  ├─worm_image
+    │  │  └─image_pro
+    │  └─worm_toutiao
+    │      └─toutiao_pro
+    ├─python-网络接口
+    ├─stroutpute
+    ├─Sublime Text
+    ├─tkinter
+    ├─vipdownload
+    ├─Windows-Linux shell
+    ├─字符与编码
+    ├─数据分析
+    │  ├─matpoltlib
+    │  └─Numpy
+    └─移动应用自动化
+        ├─auto_kuaishou.air
+        ├─pylog
+        └─resources
 ```
 
