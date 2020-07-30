@@ -11,16 +11,12 @@
 
 ```
 ./Diary
+
 ├─.idea
 │  └─dictionaries
 ├─resources
 │  └─image
 └─内容分类
-    ├─AirTest
-    │  └─log
-    ├─C
-    │  ├─hello world
-    │  └─指针
     ├─GIT-GitHub
     ├─HTML XML解析
     │  └─root.html_files
@@ -30,7 +26,8 @@
     │  └─__pycache__
     ├─pygame
     │  ├─alien_vs_ships
-    │  │  └─resources
+    │  │  ├─resources
+    │  │  └─__pycache__
     │  ├─Beginning Game Development with Python and Pygame
     │  ├─learn
     │  │  ├─resources
@@ -41,9 +38,7 @@
     ├─python-GUI
     ├─python-selenium
     ├─python-基础与练习
-    │  ├─string_parse
-    │  └─unittest
-    │      └─__pycache__
+    │  └─string_parse
     ├─python-爬虫
     │  ├─mp3-download
     │  ├─worm_image
@@ -54,6 +49,8 @@
     ├─stroutpute
     ├─Sublime Text
     ├─tkinter
+    ├─unittest
+    │  └─__pycache__
     ├─vipdownload
     ├─Windows-Linux shell
     ├─字符与编码
@@ -61,6 +58,8 @@
     │  ├─matpoltlib
     │  └─Numpy
     └─移动应用自动化
+        ├─AirTest
+        │  └─log
         ├─auto_kuaishou.air
         ├─pylog
         └─resources

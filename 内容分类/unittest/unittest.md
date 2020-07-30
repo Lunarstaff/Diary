@@ -5,15 +5,15 @@
 
 ### 二、Unittest
 - 光是看文章会很枯燥，不如先来找个简单的例子执行吧。  
-    - 1、写一段测试目标代码在[`name_function.py`](../../../内容分类/python-基础与练习/unittest/name_function.py)
-    中编写`get_formatted_name`方法，在[`names.py`](../../../内容分类/python-基础与练习/unittest/names.py)
+    - 1、写一段测试目标代码在[`name_function.py`](name_function.py)
+    中编写`get_formatted_name`方法，在[`names.py`](names.py)
     中调用。
     > 在写上面这段代码的时候遇到问题“怎么把一个py文件(A.py)中的类或者方法(a)导入到另一个py
     文件(B.py)中？”
-    ![](../../../resources/image/import%20-%20001.png)
+    ![](../../resources/image/import%20-%20001.png)
     > 1. 如果A.py和B.py在同一个目录下，只需要直接在B.py中使用`import A`或者
     `from A import a`
-    ![](../../../resources/image/import-002.png)
+    ![](../../resources/image/import-002.png)
     > 2. 如果A.py和B.py不在同一个目录下，需要先将A.py文件的文件路径添加到环境变量
     中，再使用`import A`或者`from A import a`
     ```python
@@ -33,7 +33,7 @@
     - 2、 代码写好后可以正常的输入姓、名，输出格式化的完整姓名，如果修改`get_formatted_name`方法，
     使其还可以处理中间名，但是在运行names.py之前，修改过的`get_formatted_name`方法必须要经过测试。
     
-    - 3、 为`name_function.py`创建测试[`test_name_function.py`](../../../内容分类/python-基础与练习/unittest/test_name_function.py)
+    - 3、 为`name_function.py`创建测试[`test_name_function.py`](test_name_function.py)
         ```python
         # test_name_function.py
     
@@ -50,7 +50,7 @@
                 self.assertEqual(formatted_name, "Mingzi Xingshi")
         ```
         执行结果如下：  
-        ![](../../../resources/image/unittest-执行结果-001.png)
+        ![](../../resources/image/unittest-执行结果-001.png)
         
     - 4、 修改`name_function.py`使在调用`get_formatted_name`时支持有中间名
     的名字。
@@ -61,7 +61,7 @@
         return full_name.title()
         ```
         再执行刚才的测试结果如下：  
-        ![](../../../resources/image/unittest-执行结果-002.png)
+        ![](../../resources/image/unittest-执行结果-002.png)
     在测试条件不变的情况下测试不通过说明，我们修改的代码有不符合预期的情况，所以我
     们分析`get_formatted_name`发现在修改支持中间名之后，在执行只有姓、名的场景
     下会测试不通过，所以修改中间名为可选参数，并在处理时增加判断。
@@ -75,7 +75,7 @@
         return full_name.title()
         ```
         再次执行测试，结果如下：
-        ![](../../../resources/image/unittest-执行结果-003.png)
+        ![](../../resources/image/unittest-执行结果-003.png)
     - 5、 在确定``又可以实现只有姓和名的名字处理时，我们下面增加测试有姓、名和中
     间名的名字处理，在测试类中增加一个测试方法：
         ```python
@@ -85,10 +85,10 @@
                 self.assertEqual(formatted_name, "Fname Mname Lname")
         ```
         测试执行结果如下：
-        ![](../../../resources/image/unittest-执行结果-004.png)
+        ![](../../resources/image/unittest-执行结果-004.png)
 
 - 测试一个类
-    - 1、 一个要测试的类[`AnonymousSurvey`](./survey.py)
+    - 1、 一个要测试的类[`AnonymousSurvey`](survey.py)
         ```python
         # survey.py
         class AnonymousSurvey():
@@ -113,7 +113,7 @@
                     print('- ' + response)
     
         ```
-    - 2、 写一个使用这个类的程序[`language_survey.py`](./language_survey.py)
+    - 2、 写一个使用这个类的程序[`language_survey.py`](language_survey.py)
         ```python
         from survey import AnonymousSurvey
 
@@ -167,7 +167,7 @@
             unittest.main()
         ```
         测试执行结果如下：
-        ![](../../../resources/image/unittest-执行结果-005.png)
+        ![](../../resources/image/unittest-执行结果-005.png)
     - 4、 上面的测试有效果，但是测试代码有重复的地方，每个测试方法中分别创建了一
     个`AnonymousSurvey`实例，并且每个测试方法中都使用到了测试的问题和答案。
     unittest.TestCase类中的`setUp()`方法，在每次执行`test_`测试方法之前都要先
@@ -420,6 +420,6 @@ unittest最核心的部分是`TestFixture`，`TestCase`，`TestSuite`，`TestRun
 
 ---
 
-![](../../../resources/image/segmentfault-logo.png)
+![](../../resources/image/segmentfault-logo.png)
 
 【文章1】https://segmentfault.com/a/1190000016315201?utm_source=tag-newest
